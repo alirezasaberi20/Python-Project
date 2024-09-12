@@ -1,2 +1,3 @@
-# Python-Project
-There are some cool python projects in this repository.
+## Python Projects
+There are some cool projects in this repository, from Rock Paper Scissors game to Snake game.
+
